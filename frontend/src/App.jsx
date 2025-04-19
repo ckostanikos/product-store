@@ -3,7 +3,7 @@ import { Button } from "@chakra-ui/react";
 function App() {
   return (
     <>
-      <title>babis</title>
+      <title>Product Store</title>
       <Button>Hello</Button>
     </>
   );
